@@ -14,7 +14,8 @@ import {
   Star,
   Plus,
   Eye,
-  MessageSquare
+  MessageSquare,
+  Briefcase
 } from "lucide-react";
 import BottomNavigation from "@/components/BottomNavigation";
 
